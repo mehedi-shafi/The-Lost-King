@@ -1,0 +1,11 @@
+Read carefully
+
+
+1. I alone own the entire right of the game code and plan.
+2. I am not owner of any of the image contents that has been used in the game. 
+3. Sprite sheets are taken from open sourse then forged into animation.
+4. Follow the ECLIPSE public license for the compilation. 
+5. You can cut copy paste whatever you like to do with the code. you are most welcome.
+6. Since I am not working on this project anymore you can FORK and add any update you want. I will add them to master.
+7. Dont submit directly if taking help for class project. Learn how to code. 
+8. the code here is much simple. I am a noob class programmer. 
